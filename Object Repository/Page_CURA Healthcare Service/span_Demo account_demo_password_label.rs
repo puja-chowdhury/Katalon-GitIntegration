@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>span_Demo account_demo_password_label</name>
    <tag></tag>
-   <elementGuidId>1c2bdd3b-d26a-4d70-a1ac-3407cb800ea6</elementGuidId>
+   <elementGuidId>52c354d9-7511-44e7-b7e1-1294596cd78b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-login']</value>
+         <value>//span[@id='demo_password_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#btn-login</value>
+         <value>#demo_password_label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>6f93d4d6-f4f9-44c3-81e1-2e1d7e2b6224</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>a08b4601-6c10-4855-8604-14a8ec9867f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>fd458926-7853-4f42-8749-e87c4a095454</webElementGuid>
+      <value>span</value>
+      <webElementGuid>96aed8df-dd1a-478a-84bf-28ac106d7aa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>cc384838-453c-4da5-8ef2-3b8721162ee0</webElementGuid>
+      <value>input-group-addon</value>
+      <webElementGuid>648569ac-1279-4047-af8f-f4cb00ee353e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>59fa772d-dc47-42b4-9c3d-ffd753b73fb3</webElementGuid>
+      <value>demo_password_label</value>
+      <webElementGuid>2c420291-0050-4835-bb34-b0f53e74a7c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-login&quot;)</value>
-      <webElementGuid>ebe99735-0b0a-4f0c-b5d8-2c9cd43b5619</webElementGuid>
+      <value>id(&quot;demo_password_label&quot;)</value>
+      <webElementGuid>d6b580d3-e266-428b-a01e-743cb2fe87c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-login']</value>
-      <webElementGuid>0bb96e83-f75c-4245-9f6d-08cc27396b20</webElementGuid>
+      <value>//span[@id='demo_password_label']</value>
+      <webElementGuid>980fbd4b-32bd-45d2-a5d8-dc2fd4cdeac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[4]/div/button</value>
-      <webElementGuid>f6b59b3a-b792-4550-a2d5-e69302d24918</webElementGuid>
+      <value>//section[@id='login']/div/div/div[2]/form/div/div[2]/div/div/span</value>
+      <webElementGuid>85efc73a-6ed8-4609-97c3-d502003040ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>b5a5f6ae-7351-4170-aed6-edf303acf72e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/following::span[3]</value>
+      <webElementGuid>36f3c5bb-6ffc-41b2-a564-942e09b91cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>c38121f2-7d0a-4dee-906c-fba1e298c288</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::span[3]</value>
+      <webElementGuid>2aa43dc2-c482-4909-974a-10fbd185eb6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::button[1]</value>
-      <webElementGuid>87f8dcd1-e740-4b0d-b0a9-eccc2757b24c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[2]</value>
+      <webElementGuid>bcc44d6b-6171-407d-a78a-420dab8dcdcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::button[1]</value>
-      <webElementGuid>650775ef-ac98-4962-b953-57ddd2fe0494</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[2]</value>
+      <webElementGuid>0a21f03d-cf34-4b07-aa37-a2611ac0b7e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>a5b89642-761d-4bec-9f22-f95c3acbb88d</webElementGuid>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>66af0513-0feb-4337-9e05-7947126e8210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1e095323-d8e8-4d79-9c01-f4980322dbcf</webElementGuid>
+      <value>//span[@id = 'demo_password_label']</value>
+      <webElementGuid>8e43c7e9-e5cd-4599-b090-54923f526040</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
